@@ -24,9 +24,6 @@ The Fitness Tracker is deployed to Heroku and uses the MongoDB Atlas.
 
 ![Fitness Tracker](./images/application.jpg)
 
-* The URL to the deployed application
-[Fitness Tracker Application](https://pure-thicket-98758.herokuapp.com/) 
+* The URL to the deployed application [Fitness Tracker Application](https://pure-thicket-98758.herokuapp.com/) 
 
-* The URL to the GitHub repository
-
-[Fitness Tracker Code](https://github.com/nataliapost11/hw-fitnesstracker/) 
+* The URL to the GitHub repository [Fitness Tracker Code](https://github.com/nataliapost11/hw-fitnesstracker/) 
